@@ -14,8 +14,9 @@
  
  .header {
     display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: baseline;
  }
 
  .nav {
